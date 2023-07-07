@@ -34,8 +34,9 @@ Missing Data: Missing data handling is crucial but not explicitly addressed in t
 # Data analysis process
 Here, I will use linear regression modeling in analysing the dataset. I will perform data exploration na d cleaning on the data, bulid a baseline model, iterate through it and report on its metrics. Then use visualizations and finally come up with recommendations on the findings of the analysis.
 # Modeling
-Building baseline model
-Iterating though the model
+Building baseline model.
+Iterating though the model.
+Choosing a final model and repoting on it.
 # Regression results
 1. Interpreting one-hot encoded results
 The model is overally statistically significant with F-statistic of about 96%. Which is seemingly good.
